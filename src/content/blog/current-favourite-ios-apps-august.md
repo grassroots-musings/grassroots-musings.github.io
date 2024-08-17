@@ -20,7 +20,7 @@ One of my hobbies is to routinely scour the app store for new apps. I like doing
 
 ## ThreeGoodThings
 
-Developed by a 2 member team, this [app](https://oatmealapps.com/three-good-things) is a minimalistic gratefulness journal. Instead of being packed with distracting and tedious questions (I am looking at you, X, Y and more) it does exactly what it says. The main screen has 3 empty lines for you to fill on what were 3 good things that happened to you that day and how it made you feel.
+Developed by a 2 member team, this [app](https://oatmealapps.com/three-good-things) is a minimalistic gratefulness journal. Instead of being packed with tedious questions, it does exactly what it says. The main screen has 3 empty lines for you to fill on what were 3 good things that happened to you that day and how it made you feel.
 
 The UI is so pleasant and excellently made for such a simple app. You can export your entries as a PDF (which they remind you to do monthly, since the app does not have a logging in system to store your data in their servers) which I prefer. You can set daily upto 3 daily reminders too! The paid version unlocks locking your journal (look what I did there?) and themes.
 
