@@ -8,8 +8,6 @@ import { remarkReadingTime } from "./src/utils/remark-reading-time.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://Gjeev.github.io',
-  base: '/grassroots',
   integrations: [
     tailwind({
       applyBaseStyles: false,
