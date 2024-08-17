@@ -2,12 +2,12 @@ import type { Site, SocialObjects } from "./types";
 import type { GiscusProps } from "@giscus/react";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://grassroots-musings.github.io", // replace this with your deployed domain
   author: "reyna",
   profile: "https://gjeev.github.io/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  desc: "Personal Blog",
+  title: "Grassroots",
+  ogImage: "light_small.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 3,
