@@ -13,14 +13,7 @@ tags:
 description:
   Some recommendations for people to try out.
 ---
-<div style="
-display: flex;
-flex-direction: column;
-align-items: center;
-">
-<div style="
-max-width: 80%;
-">
+
 One of my hobbies is to routinely scour the app store for new apps. I like doing this because apps are a very important part of things that provide happiness to my life and I like to pick and choose the ones I like best. I also uninstall apps regularly (overtime), the ones I get bored of or do not find a need to use it anymore (I hope you do too). Which means the ones that do end up being my favourites are the ones that I really love. The recommendations range from productivity, mindfulness to games and podcast apps.
 
 ## Table of Contents
@@ -84,6 +77,5 @@ Available on the play store and the app store, it's a 5/5!
 A very recent addition to my favourites, [Like A Dino!](https://apps.apple.com/us/app/like-a-dino/id1527726706) is a minimal piano tiles styled game, instead the dinosaur eats the tiles and its neck grows longer XD. Built by the amazing [@super_toki](https://www.super-toki.com/), the standout features are the cute storylines, fonts and songs!
 
 Available on the app store and the play store, I rate it a 5/5 💗
-</div>
-</div>
+
 
