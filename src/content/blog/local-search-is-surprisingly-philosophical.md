@@ -4,7 +4,7 @@ pubDatetime: 2024-10-07T07:07:44.140Z
 modDatetime: 2024-10-07T07:07:44.140Z
 title: Local Search is surprisingly philosophical
 slug: local-search-is-surprisingly-philosophical
-featured: true
+featured: false
 draft: false
 tags:
   - searching algorithms

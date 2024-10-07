@@ -2,15 +2,14 @@
 author: Jeevika
 pubDatetime: 2024-10-07T06:51:20.093Z
 modDatetime: 2024-10-07T06:51:20.093Z
-title: Book review: Klara and the sun
+title: Book review | Klara and the sun
 slug: book-review-klara-and-the-sun
-featured: true
+featured: false
 draft: false
 tags:
-  -  book review
+  - book review
   - hope
-description:
-  The book that made me fall in love with japanese fiction.
+description: The book that made me fall in love with japanese fiction.
 ---
 
 I think I will love this book forever and ever and recommend it to every single person I meet. I was struggling to find a good book to read after some unsuccessful attempts with "The Whalebone Theatre" and "The Picture of Dorian Gray." I knew from the very start that this book was going to be something special because the perspective was so fresh, like a child's, but so wise, like someone nearing their death knowing that they are dying.

@@ -2,9 +2,9 @@
 author: Jeevika
 pubDatetime: 2024-10-07T06:57:14.227Z
 modDatetime: 2024-10-07T06:57:14.227Z
-title: A review of The Anthropocene Reviwed
+title: A review of The Anthropocene Reviewed
 slug: a-review-of-the-anthropocene-reviewed
-featured: true
+featured: false
 draft: false
 tags:
   - book review
