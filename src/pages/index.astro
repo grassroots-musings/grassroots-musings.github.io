@@ -24,12 +24,11 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <main id="main-content">
     <section id="hero">
       <p>
-        Grassroots is a personal blog where I share my thoughts.
-        While the idea for this space was initially sparked by a
-        desire to share the notes I've accumulated over the
-        years, it will now be a home for a blend of musings,
-        reviews, and reflections on the things I love.
-        Please stay tuned!
+        Grassroots is a personal blog where I share my thoughts. While the idea
+        for this space was initially sparked by a desire to share the notes I've
+        accumulated over the years, it will now be a home for a blend of
+        musings, reviews, and reflections on the things I love. Please stay
+        tuned!
       </p>
       {
         // only display if at least one social link is enabled
@@ -47,7 +46,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     {
       featuredPosts.length > 0 && (
         <>
-        {console.log(featuredPosts)}
           <section id="featured">
             <h2>Featured</h2>
             <ul>
@@ -106,7 +104,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     @apply pb-6 pt-8;
   }
   #hero h1 {
-    @apply my-4 inline-block text-3xl font-bold sm:my-8 sm:text-5xl font-serif;
+    @apply my-4 inline-block font-serif text-3xl font-bold sm:my-8 sm:text-5xl;
   }
   #hero .rss-link {
     @apply mb-6;
@@ -131,7 +129,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   }
   #featured h2,
   #recent-posts h2 {
-    @apply text-2xl font-bold tracking-wide font-serif;
+    @apply font-serif text-2xl font-bold tracking-wide;
   }
   .all-posts-btn-wrapper {
     @apply my-8 text-center;

@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Space+Grotesk:wght@300..700&display=swap');
-
+/* @import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Space+Grotesk:wght@300..700&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -36,35 +36,35 @@
     #dark-small-logo {
       display: none;
     }
-  
+
     #light-logo,
     html[data-theme="dark"] #dark-logo {
       display: block;
     }
-  
+
     #dark-logo,
     html[data-theme="dark"] #light-logo {
       display: none;
     }
   }
 
-/* Media query for screens smaller than 648px */
-@media (max-width: 648px) {
-  #light-logo,
-  #dark-logo {
-    display: none;
-  }
+  /* Media query for screens smaller than 648px */
+  @media (max-width: 648px) {
+    #light-logo,
+    #dark-logo {
+      display: none;
+    }
 
-  #light-small-logo,
-  html[data-theme="dark"] #dark-small-logo {
-    display: block;
-  }
+    #light-small-logo,
+    html[data-theme="dark"] #dark-small-logo {
+      display: block;
+    }
 
-  #dark-small-logo,
-  html[data-theme="dark"] #light-small-logo {
-    display: none;
+    #dark-small-logo,
+    html[data-theme="dark"] #light-small-logo {
+      display: none;
+    }
   }
-}
   body {
     @apply flex min-h-[100svh] flex-col bg-skin-fill font-sans text-skin-base selection:bg-skin-accent/70 selection:text-skin-inverted;
   }
